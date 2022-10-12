@@ -1,0 +1,1 @@
+import{d as c,a,o as s,f as r}from"./index.1a32f116.js";const l=c({__name:"index",setup(_){const e=o=>{console.log(o)},n=o=>{console.log(o)};return(o,m)=>{const t=a("choose-time");return s(),r(t,{onChangeStart:e,onChangeEnd:n})}}});export{l as default};
